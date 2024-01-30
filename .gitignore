@@ -1,0 +1,10 @@
+# Arquivos temporários
+node_modules/
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos de saída de construção
+dist/
+build/
